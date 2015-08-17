@@ -1,0 +1,41 @@
+[
+  {
+    "name": "招牌鬆餅",
+    "name_eng": "The Big Original",
+    "description": "(煉奶、巧克力醬、焦糖、蜂蜜、鮮奶油、水果) [Condense Milk, Chocolate Sauce, Caramel, Honey, Cream, Fruits]",
+    "half_price": 6.25,
+    "full_price": 9.45,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "珍珠奶茶",
+    "name_eng": "Pearl Milk Tea",
+    "description": "(奶蓋、焦糖、珍珠)  [Crème Float, Caramel, Tapioca Pearls]",
+    "half_price": 6.25,
+    "full_price": 9.45,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "宇治金時",
+    "name_eng": "Matcha",
+    "description": "(抹茶、紅豆、冰淇淋) [Matcha, Red Bean, Green Tea Ice Cream]",
+    "half_price": 6.25,
+    "full_price": 9.45,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]

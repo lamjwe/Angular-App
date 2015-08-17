@@ -1,0 +1,119 @@
+[
+  {
+    "name": "滷蛋",
+    "name_eng": "Marinated Egg",
+    "description1": "",
+    "description2": "",
+    "price": 1.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "麵條",
+    "name_eng": "Noodle",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雜菜",
+    "name_eng": "Veggie",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雞肉",
+    "name_eng": "Chicken",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "牛肉",
+    "name_eng": "Beef",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "蝦",
+    "name_eng": "Shrimp",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "泡菜",
+    "name_eng": "Kimuchi",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雲吞",
+    "name_eng": "Wonton (3pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "玉米",
+    "name_eng": "Corn",
+    "description1": "",
+    "description2": "",
+    "price": 1.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]

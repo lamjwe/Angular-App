@@ -1,0 +1,146 @@
+[
+  {
+    "name": "珍珠",
+    "name_eng": "Tapioca Pearls",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "紅豆",
+    "name_eng": "Red Bean",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "芒果星鑽",
+    "name_eng": "Mango Stars",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "草莓紅心",
+    "name_eng": "Strawberry Heart",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "布丁",
+    "name_eng": "Pudding",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "咖啡凍",
+    "name_eng": "Coffee Jellies",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "荔枝椰果",
+    "name_eng": "Lychee Jellies",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "綠豆",
+    "name_eng": "Mung Bean",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "愛玉",
+    "name_eng": "Ice Jellies",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "仙草",
+    "name_eng": "Grass Jellies",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "椰汁椰果",
+    "name_eng": "Coconut Jellies",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "青蘋海豚",
+    "name_eng": "Green Apple Dolphin",
+    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "price": 0.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]

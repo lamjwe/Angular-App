@@ -1,38 +1,56 @@
 [
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/cabin.png"
+  	"name": "招牌鬆餅",
+    "name_eng": "The Big Original",
+  	"link": "images/pictures/Big-Original.png",
+    "preview": "images/pictures/Big-Original-prev.png"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/cake.png"
+  	"name": "奶茶三兄弟",
+    "name_eng": "Milk Tea Trio",
+  	"link": "images/pictures/Trio.jpg",
+    "preview": "images/pictures/Trio.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/circus.png"
+  	"name": "椰香奶酥",
+    "name_eng": "Coconut Fluffy Cream",
+  	"link": "images/pictures/Coconut-Fluffy-Cream.png",
+    "preview": "images/pictures/Coconut-Fluffy-Cream.png"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/game.png"
+    "name": "Italian Soda",
+    "name_eng": "Italian Soda",
+    "link": "images/pictures/Italian-soda.jpg",
+    "preview": "images/pictures/Italian-soda.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/safe.png"
+    "name": "火雞肉飯",
+    "name_eng": "Shredded Turkey on Rice",
+    "link": "images/pictures/Turkey-Rice.jpg",
+    "preview": "images/pictures/Turkey-Rice.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/submarine.png"
+    "name": " 醉雞拼盤",
+    "name_eng": "Drunken Chicken Platter",
+    "link": "images/pictures/Drunken-Chicken-Platter.jpg",
+    "preview": "images/pictures/Drunken-Chicken-Platter.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/game.png"
+    "name": "蜂蜜檸檬愛玉",
+    "name_eng": "Honey Lemonade w/ Ice Jellies",
+    "link": "images/pictures/Honey-Lemonade-prev.jpg",
+    "preview": "images/pictures/Honey-Lemonade-prev2.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/safe.png"
+  	"name": "AsUsual綠蓋茶",
+    "name_eng": "AsUsual Green Tea Float",
+  	"link": "images/pictures/Green-Tea-Float.jpg",
+    "preview": "images/pictures/Green-Tea-Float.jpg"
   },
   {
-  	"name": "Azurite",
-  	"link": "images/pictures/submarine.png"
+  	"name": "雞蛋仔",
+    "name_eng": "Bubble Waffle",
+  	"link": "images/pictures/Bubble-Waffle.png",
+    "preview": "images/pictures/Bubble-Waffle.png"
   }
 ]

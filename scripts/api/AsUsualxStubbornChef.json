@@ -1,0 +1,340 @@
+[
+  {
+    "name": "醬油拉麵",
+    "name_eng": "Shoyu Ramen",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "味噌拉麵",
+    "name_eng": "Miso Ramen",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "叉燒拉麵",
+    "name_eng": "Cha Shiu Ramen",
+    "description1": "",
+    "description2": "",
+    "price": 11.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雜菜拉麵",
+    "name_eng": "Veggie Ramen",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "泡菜拉麵 ",
+    "name_eng": "Kimuchi Ramen",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "肉燥湯麵",
+    "name_eng": "Shanghai Noodles in Soup",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "肉燥拌麵",
+    "name_eng": "Dan Dan Mein",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "椰汁雞湯麵",
+    "name_eng": "Coconut Chicken Noodle Soup",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "椰汁蝦湯麵",
+    "name_eng": "Coconut Shrimp Noodle Soup",
+    "description1": "",
+    "description2": "",
+    "price": 10.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "媽媽湯麵",
+    "name_eng": "Mama Mein",
+    "description1": "",
+    "description2": "",
+    "price": 10.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "辣蝦沙律麵",
+    "name_eng": "Spicy Shrimp Noodle Salad",
+    "description1": "",
+    "description2": "",
+    "price": 10.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "日式炸豆腐",
+    "name_eng": "Agedashi Tofu",
+    "description1": "",
+    "description2": "",
+    "price": 4.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "炸雞翅",
+    "name_eng": "Chicken Wings",
+    "description1": "",
+    "description2": "",
+    "price": 6.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "脆辣雞翅",
+    "name_eng": "Spicy Chicken Wings",
+    "description1": "",
+    "description2": "",
+    "price": 7.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "泡菜",
+    "name_eng": "Kimuchi",
+    "description1": "",
+    "description2": "",
+    "price": 4.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "春卷",
+    "name_eng": "Spring Roll(2pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 4.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "油菜",
+    "name_eng": "Steamed Veggie",
+    "description1": "",
+    "description2": "",
+    "price": 5.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "日式煎餃",
+    "name_eng": "Pan Fried Gyoza (6pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 6.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "香辣雲吞",
+    "name_eng": "Spicy Pork & Shrimp Wonton (8pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 8.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "香辣餃子",
+    "name_eng": "Spicy Shanghai Wonton (8pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "小籠包",
+    "name_eng": "Pork Juicy Buns (4pcs)",
+    "description1": "(8pcs) $10.00",
+    "description2": "",
+    "price": 5.50,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "招牌水餃",
+    "name_eng": "Pork & Cabbage Dumpling (10pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "韭菜水餃",
+    "name_eng": "Pork & Chive Dumpling (10pcs)",
+    "description1": "",
+    "description2": "",
+    "price": 9.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雲吞湯",
+    "name_eng": "Wonton Soup",
+    "description1": "",
+    "description2": "",
+    "price": 7.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "雲吞麵",
+    "name_eng": "Wonton Noodle Soup",
+    "description1": "",
+    "description2": "",
+    "price": 7.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "窩雲吞",
+    "name_eng": "Wor Wonton",
+    "description1": "",
+    "description2": "",
+    "price": 10.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]

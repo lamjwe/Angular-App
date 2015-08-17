@@ -1,0 +1,122 @@
+[
+  {
+    "name": "原味雞蛋仔",
+    "name_eng": "Original Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "草莓雞蛋仔",
+    "name_eng": "Strawberry Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "椰香雞蛋仔",
+    "name_eng": "Coconut Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "巧克力雞蛋仔",
+    "name_eng": "Choco Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "摩卡雞蛋仔",
+    "name_eng": "Mokka Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "抹茶雞蛋仔",
+    "name_eng": "Matcha Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "宇治金時雞蛋仔",
+    "name_eng": "Red Bean Matcha Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "胚芽雞蛋仔",
+    "name_eng": "Malt Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "芝士雞蛋仔",
+    "name_eng": "Cheezy Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "珍珠雞蛋仔",
+    "name_eng": "Bubble Bubble Waffle",
+    "description": "",
+    "price": 3.75,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]

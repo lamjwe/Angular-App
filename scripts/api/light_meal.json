@@ -1,0 +1,67 @@
+[
+  {
+    "name": "臺式火雞肉飯",
+    "name_eng": "Shredded Turkey on Rice",
+    "description1": "",
+    "description2": "",
+    "price": 6.25,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "臺式肉燥飯",
+    "name_eng": "Braised Pork on Rice",
+    "description1": "",
+    "description2": "",
+    "price": 6.25,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "臺式醉雞飯",
+    "name_eng": "Drunken Chicken on Rice",
+    "description1": "",
+    "description2": "",
+    "price": 8.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "醉雞拼盤",
+    "name_eng": "Drunken Chicken Platter",
+    "description1": "醉雞單點 Drunken Chicken only $5.75",
+    "description2": "加白飯 with Rice +$1.00",
+    "price": 8.95,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "白飯",
+    "name_eng": "Steamed Rice",
+    "description1": "",
+    "description2": "",
+    "price": 2.00,
+    "images": [
+      "images/gem-02.gif",
+      "images/gem-05.gif",
+      "images/gem-09.gif"
+    ],
+    "reviews": []
+  }
+]
