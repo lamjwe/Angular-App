@@ -20,20 +20,20 @@
   {
     "name": "Italian Soda",
     "name_eng": "Italian Soda",
-    "link": "images/pictures/Italian-soda.jpg",
-    "preview": "images/pictures/Italian-soda.jpg"
+    "link": "images/pictures/Italian-soda.JPG",
+    "preview": "images/pictures/Italian-soda.JPG"
   },
   {
     "name": "火雞肉飯",
     "name_eng": "Shredded Turkey on Rice",
-    "link": "images/pictures/Turkey-Rice.jpg",
-    "preview": "images/pictures/Turkey-Rice.jpg"
+    "link": "images/pictures/Turkey-Rice.JPG",
+    "preview": "images/pictures/Turkey-Rice.JPG"
   },
   {
     "name": " 醉雞拼盤",
     "name_eng": "Drunken Chicken Platter",
-    "link": "images/pictures/Drunken-Chicken-Platter.jpg",
-    "preview": "images/pictures/Drunken-Chicken-Platter.jpg"
+    "link": "images/pictures/Drunken-Chicken-Platter.JPG",
+    "preview": "images/pictures/Drunken-Chicken-Platter.JPG"
   },
   {
     "name": "蜂蜜檸檬愛玉",
@@ -44,8 +44,8 @@
   {
   	"name": "AsUsual綠蓋茶",
     "name_eng": "AsUsual Green Tea Float",
-  	"link": "images/pictures/Green-Tea-Float.jpg",
-    "preview": "images/pictures/Green-Tea-Float.jpg"
+  	"link": "images/pictures/Green-Tea-Float.JPG",
+    "preview": "images/pictures/Green-Tea-Float.JPG"
   },
   {
   	"name": "雞蛋仔",
